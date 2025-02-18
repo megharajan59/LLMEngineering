@@ -1,6 +1,6 @@
 # LLMEngineering
 
-The scope of the project is to get familiarized with LLM Engineering and Observability by explaoring various tools and methodologies.
+The scope of the project is to get familiarized with LLM Engineering and Observability by exploring various tools and methodologies.
 A key focus is on Langfuse, a powerful observability platform for LLM applications, along with integrating external pipelines such as DeepEval and Phoenix evaluation.
 
 
